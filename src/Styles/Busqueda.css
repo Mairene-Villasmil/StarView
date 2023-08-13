@@ -1,0 +1,15 @@
+.busqueda{
+    display: flex;
+    flex-direction: row;
+}
+
+input[type="text"] {
+    width: 18em;
+    height: 1.8em;
+    background-color: #ffffff9d;
+    border-radius: 5px;
+}
+
+::placeholder {
+    padding-left: 20px;
+}

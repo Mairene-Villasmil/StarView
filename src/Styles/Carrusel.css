@@ -1,0 +1,106 @@
+.swiper {
+  width: 95%;
+  height: 85vh;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide .imgPelicula {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+}
+
+.autoplay-progress {
+  position: absolute;
+  right: 16px;
+  bottom: 16px;
+  z-index: 10;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: black;
+}
+
+.autoplay-progress svg {
+  --progress: 0;
+  position: absolute;
+  left: 0;
+  top: 0px;
+  z-index: 10;
+  width: 100%;
+  height: 100%;
+  stroke-width: 4px;
+  stroke: white;
+  fill: none;
+  stroke-dashoffset: calc(125.6 * (1 - var(--progress)));
+  stroke-dasharray: 125.6;
+  transform: rotate(-90deg);
+}
+
+.swiper-pagination-fraction,
+.swiper-pagination-custom,
+.swiper-horizontal>.swiper-pagination-bullets,
+.swiper-pagination-bullets.swiper-pagination-horizontal {
+
+  display: none;
+}
+
+.swiper-button-prev:after,
+.swiper-button-next:after {
+  display: none;
+}
+
+.titulo {}
+
+.descripcion {
+  background-color: rgba(0, 0, 0, 0.815);
+  width: 40%;
+  left: 2%;
+  position: absolute;
+  top: 60%;
+  font-size: 14px;
+  text-align: left;
+  line-height: 20px;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+.botones {
+  width: 25%;
+  position: absolute;
+  top: 90%;
+  left: 2%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.botones button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  font-size: 20px;
+  padding: 10px 15px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.informacion .imgTitulo {
+  position: absolute;
+  top: 2%;
+  left: 2%;
+  font-size: 50px;
+  width: 350px !important;
+}
