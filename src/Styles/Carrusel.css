@@ -1,6 +1,7 @@
 .swiper {
   width: 95%;
   height: 85vh;
+  border-radius: 10px;
 }
 
 .swiper-slide {
@@ -60,8 +61,6 @@
 .swiper-button-next:after {
   display: none;
 }
-
-.titulo {}
 
 .descripcion {
   background-color: rgba(0, 0, 0, 0.815);

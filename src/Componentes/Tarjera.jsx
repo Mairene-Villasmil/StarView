@@ -11,7 +11,7 @@ import img8 from '../Imagenes/marioC.avif'
 import img9 from '../Imagenes/maverickC.avif'
 import img10 from '../Imagenes/FFXC.jpg';
 
-function Tarjetas({ imageSrc, title, duration }) {
+function Tarjetas() {
     return (
         <div className="contenedorTarjetas">
             <div className="card">

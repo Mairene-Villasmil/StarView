@@ -1,0 +1,98 @@
+.contenedorTarjetas {
+    width: 96vw;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+    margin-left: 30px;
+}
+
+.TarjetaCategoria {
+    width: 20%;
+    height: 140px;
+    border: white solid 2px;
+    border-radius: 15px;
+    margin: 15px;
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+#tarjeta1 {
+    background-image: url(../Imagenes/fondo1.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#tarjeta2 {
+    background-image: url(../Imagenes/fondo2.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#tarjeta3 {
+    background-image: url(../Imagenes/fondo3.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#tarjeta4 {
+    background-image: url(../Imagenes/fondo4.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#tarjeta5 {
+    background-image: url(../Imagenes/fondo5.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#tarjeta6 {
+    background-image: url(../Imagenes/fondo6.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#tarjeta7 {
+    background-image: url(../Imagenes/fondo7.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#tarjeta8 {
+    background-image: url(../Imagenes/fondo8.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#tarjeta9 {
+    background-image: url(../Imagenes/fondo9.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#tarjeta10 {
+    background-image: url(../Imagenes/fondo10.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#tarjeta11 {
+    background-image: url(../Imagenes/fondo11.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#tarjeta12 {
+    background-image: url(../Imagenes/fondo12.png);
+    background-size: cover;
+    background-position: center;
+}

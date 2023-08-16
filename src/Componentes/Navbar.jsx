@@ -3,7 +3,7 @@ import '../Styles/Navbar.css'
 import Busqueda from './Busqueda';
 import Avatar from '@mui/material/Avatar';
 import imgAvatar from '../Imagenes/mairene-villasmil.png'
-
+import {Link as LinkRouter } from 'react-router-dom'
 
 function Navbar() {
 
@@ -13,15 +13,17 @@ function Navbar() {
                 <input type="checkbox" id="nav-check"></input>
                 <div className="nav-header">
                     <div className="nav-title">
+                        <LinkRouter to={"/Home"}>
                         <p className='logo'>StarView</p>
+                        </LinkRouter>
                     </div>
                 </div>
                 <div className="nav-btn">
-                    <label for="nav-check">
+                    <babel for="nav-check">
                         <span></span>
                         <span></span>
                         <span></span>
-                    </label>
+                    </babel>
                 </div>
 
                 <div className="nav-links">

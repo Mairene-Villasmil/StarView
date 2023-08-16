@@ -2,8 +2,7 @@
   position: absolute;
   width: 270px;
   height: 100vh;
-  background-color: black;
-  position: fixed;
+  background-color: rgb(27, 27, 27);
   top: 100px;
   left: -60px;
   transition: left 0.3s ease-in-out;
@@ -55,4 +54,5 @@
   margin: 25px 0px;
   color: white;
   cursor: pointer;
+  text-decoration-line: none;
 }
