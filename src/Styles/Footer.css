@@ -125,18 +125,18 @@ ul {
 .subscribe-form {
     display: flex;
     flex-direction: row;
+    justify-content: flex-start;
     align-items: center;
-    position: relative;
-    overflow: hidden;
     cursor: pointer;
 }
 
 input[type="text"] {
-    width: 18em;
-    height: 2.5em;
+    width: 16em;
+    height: 2em;
     background-color: #ffffff9d;
     border-radius: 5px;
     cursor: pointer;
+    margin-right: 2px;
 }
 
 ::placeholder{
@@ -145,18 +145,11 @@ input[type="text"] {
 
 .subscribe-form button {
     position: absolute;
-    right: 0;
-    height: 2.8em;
-    padding: 8px 20px;
-    top: 2px;
+    height: 2.3em;
+    padding: 8px 15px;
     border-radius: 5px;
     cursor: pointer;
-}
-
-.subscribe-form button i {
-    color: #fff;
-    font-size: 22px;
-    transform: rotate(-6deg);
+    margin-top: 2px;
 }
 
 .copyright-area {

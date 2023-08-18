@@ -3,7 +3,7 @@ import Hero from '../Componentes/Hero';
 import MenuLateral from '../Componentes/MenuLateral'
 import '../Styles/Home.css';
 import Carrusel from '../Componentes/Carusel';
-import Tarjetas from '../Componentes/Tarjera';
+import Tarjetas from '../Componentes/Tarjetas';
 
 function Home() {
     const [showAnimation, setShowAnimation] = useState(true);

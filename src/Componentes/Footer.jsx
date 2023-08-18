@@ -81,12 +81,12 @@ function Footer() {
                                         <h3>Subscribete</h3>
                                     </div>
                                     <div className="footer-text mb-25">
-                                        <p>No deje de suscribirse a nuestros nuevos servicios, completa el formulario a continuación.</p>
+                                        <p>No dejes de suscribirte a nuestros nuevos servicios, completa el formulario a continuación.</p>
                                     </div>
                                     <div className="subscribe-form">
                                         <form action="#">
                                             <input type="text" placeholder="Email Address" />
-                                            <button><FaRegPaperPlane style={{fontSize:'20px'}}/></button>
+                                            <button><FaRegPaperPlane style={{fontSize:'15px'}}/></button>
                                         </form>
                                     </div>
                                 </div>
@@ -99,7 +99,7 @@ function Footer() {
                         <div className="row">
                             <div className="col-xl-6 col-lg-6 text-center text-lg-left">
                                 <div className="copyright-text">
-                                    <p>Copyright &copy; 2018, All Right Reserved</p>
+                                    <p>Copyright &copy; 2023, All Right Reserved</p>
                                 </div>
                             </div>
                         </div>
