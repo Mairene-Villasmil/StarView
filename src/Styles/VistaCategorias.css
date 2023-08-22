@@ -1,0 +1,17 @@
+.contenedorVista{
+    width: 98vw;
+    min-height: 80vh;
+    margin-left: 60px;
+}
+
+span{
+    font-size: 30px;
+    color: white;
+}
+
+.tarjetasCategoria{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

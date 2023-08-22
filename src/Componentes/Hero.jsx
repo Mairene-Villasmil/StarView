@@ -1,7 +1,14 @@
-import React, { useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import '../Styles/Hero.css';
 
 function Hero() {
+  const [showAnimation, setShowAnimation] = useState(true);
+
+    useEffect(() => {
+        setTimeout(() => {
+            setShowAnimation(false);
+        }, 5000);
+    }, []);
   useEffect(() => {
     const elementos = document.querySelectorAll('.elemento');
 
@@ -13,7 +20,8 @@ function Hero() {
   }, []);
 
   return (
-    <div className="contenedor">
+    <div className={`hero ${showAnimation ? 'show' : 'hide'}`}>
+      <div className="contenedor">
       <div className="elemento">S</div>
       <div className="elemento">t</div>
       <div className="elemento">a</div>
@@ -23,6 +31,8 @@ function Hero() {
       <div className="elemento">e</div>
       <div className="elemento">w</div>
     </div>
+    </div>
+    
   );
 }
 

@@ -3,28 +3,26 @@ import Hero from '../Componentes/Hero';
 import MenuLateral from '../Componentes/MenuLateral'
 import '../Styles/Home.css';
 import Carrusel from '../Componentes/Carusel';
-import Tarjetas from '../Componentes/Tarjetas';
+import DatosApi from '../Servicios.jsx/DatosApi';
 
-function Home() {
-    const [showAnimation, setShowAnimation] = useState(true);
+function Home({peliculas}) {
     const [showContent, setShowContent] = useState(false);
-
+    
     useEffect(() => {
         setTimeout(() => {
-            setShowAnimation(false);
             setShowContent(true);
-        }, 5000); // Ajusta el valor para el retraso deseado
+        }, 5000);
     }, []);
     return (
         <div>
-            <section className={`hero ${showAnimation ? 'show' : 'hide'}`}>
+            <section >
                 <Hero />
             </section>
             <MenuLateral isOpen={showContent} />
             {showContent && (
-                <section className="contenido" style={{color:'white', fontSize:'50px'}}>
-                    <Carrusel/>
-                    <Tarjetas/>
+                <section className="contenido" style={{ color: 'white', fontSize: '50px' }}>
+                    <Carrusel />
+                    <DatosApi peliculas={peliculas} />
                 </section>
             )}
         </div>

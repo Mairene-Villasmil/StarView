@@ -1,10 +1,13 @@
 .busqueda{
+    width: 98%;
     display: flex;
     flex-direction: row;
+    justify-content: flex-end;
+    margin: 15px 30px 0px 0px;
 }
 
 input[type="text"] {
-    width: 18em;
+    width: 25em !important;
     height: 1.8em;
     background-color: #ffffff9d;
     border-radius: 5px;

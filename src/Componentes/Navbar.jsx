@@ -1,10 +1,9 @@
-import * as React from 'react';
+import React from 'react';
 import '../Styles/Navbar.css'
-import Busqueda from './Busqueda';
 import Avatar from '@mui/material/Avatar';
 import { Link as LinkRouter } from 'react-router-dom'
 
-function Navbar() {
+function Navbar({peliculas}) {
 
     return (
         <>
@@ -26,7 +25,6 @@ function Navbar() {
                 </div>
 
                 <div className="nav-links">
-                    <p><Busqueda /></p>
                     <LinkRouter to={"/Home"}>
                         <p>Inicio</p>
                     </LinkRouter>

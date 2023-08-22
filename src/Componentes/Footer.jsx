@@ -12,7 +12,7 @@ function Footer() {
                         <div className="row">
                             <div className="col-xl-4 col-md-4 mb-30">
                                 <div className="single-cta">
-                                    <FaMapMarkedAlt style={{fontSize:'30px'}}/>
+                                    <FaMapMarkedAlt style={{ fontSize: '30px' }} />
                                     <div className="cta-text">
                                         <h4>Dirección</h4>
                                         <span>1010 Avenue, sw 54321, chandigarh</span>
@@ -21,7 +21,7 @@ function Footer() {
                             </div>
                             <div className="col-xl-4 col-md-4 mb-30">
                                 <div className="single-cta">
-                                    <FaPhone style={{fontSize:'30px'}}/>
+                                    <FaPhone style={{ fontSize: '30px' }} />
                                     <div className="cta-text">
                                         <h4>Contacto</h4>
                                         <span>9876543210 0</span>
@@ -30,7 +30,7 @@ function Footer() {
                             </div>
                             <div className="col-xl-4 col-md-4 mb-30">
                                 <div className="single-cta">
-                                    <FaEnvelopeOpen style={{fontSize:'30px'}}/>
+                                    <FaEnvelopeOpen style={{ fontSize: '30px' }} />
                                     <div className="cta-text">
                                         <h4>E-mail</h4>
                                         <span>mail@info.com</span>
@@ -49,14 +49,13 @@ function Footer() {
                                         </LinkRouter>
                                     </div>
                                     <div className="footer-text">
-                                        <p>Lorem ipsum dolor sit amet, consec tetur adipisicing elit, sed do eiusmod tempor incididuntut consec tetur adipisicing
-                                            elit,Lorem ipsum dolor sit amet.</p>
+                                        <p>Desde clásicos atemporales hasta los últimos éxitos de taquilla, nuestra página tiene las películas que estás buscando.</p>
                                     </div>
                                     <div className="footer-social-icon">
                                         <span>Siguenos</span>
-                                        <FaFacebook style={{fontSize:'30px', margin:'0px 20px', color:'#2a2ae0'}}/>
-                                        <FaTwitter style={{fontSize:'30px', margin:'0px 20px', color:'#236e99'}}/>
-                                        <FaGoogle style={{fontSize:'30px', margin:'0px 20px', color:'#d82929'}}/>
+                                        <FaFacebook style={{ fontSize: '30px', margin: '0px 20px', color: '#2a2ae0' }} />
+                                        <FaTwitter style={{ fontSize: '30px', margin: '0px 20px', color: '#236e99' }} />
+                                        <FaGoogle style={{ fontSize: '30px', margin: '0px 20px', color: '#d82929' }} />
                                     </div>
                                 </div>
                             </div>
@@ -86,7 +85,7 @@ function Footer() {
                                     <div className="subscribe-form">
                                         <form action="#">
                                             <input type="text" placeholder="Email Address" />
-                                            <button><FaRegPaperPlane style={{fontSize:'15px'}}/></button>
+                                            <button><FaRegPaperPlane style={{ fontSize: '15px' }} /></button>
                                         </form>
                                     </div>
                                 </div>

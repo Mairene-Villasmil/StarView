@@ -6,7 +6,7 @@
             "categoria": "Infantil",
             "año": "1992",
             "tiempo": "1h 34min",
-            "clasificacion": "0",
+            "clasificacion": 0,
             "descripcion": "Aladdín, un astuto plebeyo, se une a Jasmín, una princesa inteligente y segura de sí misma, para luchar contra el malvado brujo Jafar y frustrar sus planes de apoderarse del reino. En el camino, Aladdín aprende a creer en sí mismo con la ayuda de un Genio divertido que cambia de formas... y tres deseos que pueden cambiarlo todo.",
             "direccion": "John Musker,  Ron Clements",
             "autor1": "Scott Weinger",
@@ -22,7 +22,7 @@
             "categoria": "Musicales",
             "año": "2018",
             "tiempo": "2h 48min",
-            "clasificacion": "12",
+            "clasificacion": 12,
             "descripcion": "Freddie Mercury desafía los estereotipos y se convierte en uno de los vocalistas más reconocidos de la música mundial. Después de dejar la banda Queen para seguir una carrera como solista, Mercury se reúne con la banda para dar una de las mejores actuaciones en la historia del rock 'n' roll.",
             "direccion": "Bryan Singer, Dexter Fletcher",
             "autor1": "Rami Malek",
@@ -38,7 +38,7 @@
             "categoria": "Musicales",
             "año": "2006",
             "tiempo": "1h 38min",
-            "clasificacion": "0",
+            "clasificacion": 0,
             "descripcion": "Troy y Gabriela se conocen en un karaoke durante las vacaciones. Troy es una estrella de baloncesto, y Gabriela es la nueva estudiante. Al volver al colegio, se presentan al casting para el musical de la escuela, pero deben superar varios obstáculos.",
             "direccion": "Kenny Ortega",
             "autor1": "Zac Efron",
@@ -54,7 +54,7 @@
             "categoria": "Musicales",
             "año": "2008",
             "tiempo": "1h 48min",
-            "clasificacion": "0",
+            "clasificacion": 0,
             "descripcion": "Donna, una hotelera independiente de las islas griegas, prepara la boda de su hija con la ayuda de dos viejos amigos. Mientras tanto, Sophie, la alegre hija de Donna, tiene su propio plan. Invita a la boda a tres hombres del pasado de su madre con la esperanza de conocer a su padre biológico para que la acompañe al altar.",
             "direccion": "Phyllida Lloyd",
             "autor1": "Meryl Streep",
@@ -70,7 +70,7 @@
             "categoria": "Musicales",
             "año": "2017",
             "tiempo": "2h 46min",
-            "clasificacion": "10",
+            "clasificacion": 10,
             "descripcion": "P.T. Barnum se entrega a su imaginación para crear el circo Barnum & Bailey en el siglo XIX. Con números musicales, artistas exóticos y hazañas, el fascinante espectáculo toma al mundo por asalto para convertirse en el mejor espectáculo de la Tierra.",
             "direccion": "Michael Gracey",
             "autor1": "Hugh Jackman",
@@ -86,7 +86,7 @@
             "categoria": "Suspenso",
             "año": "2018",
             "tiempo": "2h 4min",
-            "clasificacion": "16",
+            "clasificacion": 16,
             "descripcion": "Una mujer llamada Malorie y dos niños navegan río abajo con los ojos vendados para llegar a un refugio, después de que unas fuerzas extrañas invadieran, y se encuentren provocando suicidios masivos alrededor del mundo, generando caos y disminuyendo la población.",
             "direccion": "Susanne Bier",
             "autor1": "Sandra Bullock",
@@ -102,7 +102,7 @@
             "categoria": "Accion",
             "año": "2023",
             "tiempo": "2h 3min",
-            "clasificacion": "13",
+            "clasificacion": 13,
             "descripcion": "Rachel Stone es una agente de inteligencia, la única mujer que se interpone entre su poderosa organización mundial de mantenimiento de la paz y la pérdida de su activo más valioso y peligroso.",
             "direccion": "Tom Harper",
             "autor1": "Gal Gadot",
@@ -118,7 +118,7 @@
             "categoria": "Accion",
             "año": "2023",
             "tiempo": "1h 33min",
-            "clasificacion": "12",
+            "clasificacion": 12,
             "descripcion": "Tras sufrir un accidente y caer a un planeta desconocido, los supervivientes de la nave descubren que han llegado a la Tierra, pero hace 65 millones de años. Ahora, deben cruzar un territorio inhóspito, poblado de bestias prehistóricas, para salir.",
             "direccion": "Scott Beck, Bryan Woods",
             "autor1": "Adam Driver",
@@ -134,7 +134,7 @@
             "categoria": "Comedia",
             "año": "2015",
             "tiempo": "1h 41min",
-            "clasificacion": "16",
+            "clasificacion": 16,
             "descripcion": "Doug Harris es un hombre encantador, pero incapaz de hacer amigos. Ahora que está a punto de casarse con la chica de sus sueños, no tiene amigos suficientes para hacer de testigos en el enlace; por no tener, no tiene ni uno que haga de padrino.",
             "direccion": "Jeremy Garelick",
             "autor1": "Kevin Hart",
@@ -150,7 +150,7 @@
             "categoria": "Musicales",
             "año": "1984",
             "tiempo": "2h 40min",
-            "clasificacion": "",
+            "clasificacion": 14,
             "descripcion": "Una noche de 1823, los sirvientes del compositor Antonio Salieri descubren que su anciano patrón ha intentado cortarse el cuello, tras confesar a gritos haber asesinado a Wolfgang Amadeus Mozart. Salieri es ingresado a un sanatorio y es visitado por un sacerdote que desea confesarlo y ofrecerle el perdón de Dios, a cuyos ojos “todos los hombres son iguales”. Al escuchar esto, Salieri confiesa que desde su infancia sintió admiración por Mozart, un niño prodigio que interpretaba para reyes, emperadores e incluso el Papa.",
             "direccion": "Miloš Forman",
             "autor1": "F. Murray Abraham",
@@ -166,7 +166,7 @@
             "categoria": "Comedia",
             "año": "2017",
             "tiempo": "2h 54min",
-            "clasificacion": "",
+            "clasificacion": 10,
             "descripcion": "Un millonario tetrapléjico establece una amistad profunda con el criminal en libertad condicional al que contrata para cuidarlo. A pesar de que proceden de dos realidades totalmente opuestas, la amistad que surge entre ellos es limpia y férrea.",
             "direccion": "Neil Burger",
             "autor1": "Kevin Hart",
@@ -182,7 +182,7 @@
             "categoria": "Musicales",
             "año": "2001",
             "tiempo": "2h 07min",
-            "clasificacion": "12",
+            "clasificacion": 12,
             "descripcion": "Satine, la estrella más rutilante del Moulin Rouge, encandila a toda la ciudad con sus bailes llenos de sensualidad. Atrapada entre el amor de dos hombres, un joven escritor y un duque, lucha por hacer realidad su sueño de ser actriz.",
             "direccion": "Baz Luhrmann",
             "autor1": "Nicole Kidman",
@@ -198,7 +198,7 @@
             "categoria": "Documentales",
             "año": "2019",
             "tiempo": "44min",
-            "clasificacion": "10",
+            "clasificacion": 10,
             "descripcion": "Las civilizaciones antiguas escondían los secretos de su increíble conocimiento de astronomía en sus templos y palacios, construidos para alinearse con el sol, el mismo día, en todo el mundo. Revelando la obsesión de la humanidad con el sol a lo largo de miles de años y en cada continente, esto es magia arquitectónica en escala cósmica.",
             "direccion": "Kenny Scott",
             "autor1": "Stefan Ashton Frank"
@@ -209,7 +209,7 @@
             "categoria": "Documentales",
             "año": "2021",
             "tiempo": "49min",
-            "clasificacion": "10",
+            "clasificacion": 10,
             "descripcion": "Tienen una capacidad impresionante para comunicarse, comparten estructuras sociales complejas y sus secretos se esconden en lo profundo del océano. Un documental épico, filmado durante tres años en veinticuatro locaciones, que revela todo sobre cinco especies de cetáceos: orcas, ballenas jorobadas, belugas, narvales y cachalotes. Una cultura tan rica y parecida a la nuestra ¡que ni te imaginas!",
             "direccion": "Brian Armstrong, Andy Mitchell",
             "autor1": "Sigourney Weaver",
@@ -222,7 +222,7 @@
             "categoria": "Documentales",
             "año": "2021",
             "tiempo": "44min",
-            "clasificacion": "14",
+            "clasificacion": 14,
             "descripcion": "En 2017 en la costa de Sudáfrica, las orcas comenzaron a cazar grandes tiburones blancos. Ahora, investigadores de Nueva Zelanda quieren averiguar si esto podría volver a suceder. Con ese objetivo, bucean con varias poblaciones de tiburones a lo largo de la costa sur de Nueva Zelanda. Quieren investigar el misterio de estas matanzas y buscar respuestas a la pregunta candente: ¿las orcas locales les tomaron el gusto a los grandes tiburones blancos?",
             "direccion": "Sigmund Spath Jr.",
             "autor1": "Kina Scobally",
@@ -235,7 +235,7 @@
             "categoria": "Musicales",
             "año": "1988",
             "tiempo": "2h 15min",
-            "clasificacion": "12",
+            "clasificacion": 12,
             "descripcion": "La película se basa en la historia de la vida del legendario saxofonista Charlie Parker, apodado Bird. La carrera artística de Parker fue influida por su uso de las drogas y el alcohol. Clint Eastwood, aficionado al jazz, y su guionista, Oliansky, encontraron las imágenes propicias para dar a la biografía de este músico el estilo de vida salvaje de un artista brillante en forma de película.",
             "direccion": "Clint Eastwood",
             "autor1": "Forest Whitaker",
@@ -249,7 +249,7 @@
             "categoria": "Comedia",
             "año": "1995",
             "tiempo": "1h 59min",
-            "clasificacion": "16",
+            "clasificacion": 16,
             "descripcion": "Marcus Burnett (Martin Lawrence) y Mike Lowrey (Will Smith) son los mejores amigos y los detectives de la División de Narcóticos del Departamento de Policía de Miami-Dade. Una noche, $100 millones en heroína incautada es robado de una bóveda de seguridad policial. Este es un duro golpe a Burnett y Lowrey, porque fue la mayor redada de drogas de sus carreras. La Unidad de Asuntos Internos cree que fue un trabajo interno y advierte a la policía de Miami que si no se recuperan las drogas en cinco días, la división de narcóticos se cerrará.",
             "direccion": "Michael Bay",
             "autor1": "Martin Lawrence",
@@ -265,7 +265,7 @@
             "categoria": "Comedia",
             "año": "2006",
             "tiempo": "1h 38min",
-            "clasificacion": "15",
+            "clasificacion": 15,
             "descripcion": "Un pequeño fugitivo de la ley finge ser un niño para poder llegar hasta una gema robada que está oculta en la bolsa de una mujer.",
             "direccion": "Keenen Ivory Wayans",
             "autor1": "Marlon Wayans",
@@ -281,7 +281,7 @@
             "categoria": "Musicales",
             "año": "2006",
             "tiempo": "1h 44min",
-            "clasificacion": "13",
+            "clasificacion": 13,
             "descripcion": "Anna Holtz, una estudiante del Conservatorio de Música de Viena, acepta gustosa la tarea de trabajar como transcriptora para el compositor Ludwig van Beethoven. El temperamental maestro desarrolla un creciente afecto por su nueva compañera, pero ella planea casarse con su enamorado de siempre.",
             "direccion": "Agnieszka Holland",
             "autor1": "Ed Harris",
@@ -297,7 +297,7 @@
             "categoria": "Suspenso",
             "año": "2020",
             "tiempo": "1h 30min",
-            "clasificacion": "16",
+            "clasificacion": 16,
             "descripcion": "Diane (Sarah Paulson) da a luz prematuramente a su hija, Chloe, que es trasladada de inmediato para recibir tratamiento de emergencia. Diecisiete años después, Chloe (Kiera Allen) tiene una enfermedad crónica y usa una silla de ruedas. Ella toma muchos medicamentos, es educada en su casa en el campo por Diane y tiene una pasión por la tecnología y la ingeniería.",
             "direccion": "Aneesh Chaganty",
             "autor1": "Sarah Paulson",
@@ -313,7 +313,7 @@
             "categoria": "Documentales",
             "año": "2016",
             "tiempo": "1h 18min",
-            "clasificacion": "0",
+            "clasificacion": 0,
             "descripcion": "Viaja a los más salvajes rincones del planeta con cinco valientes animales que se enfrentan a los primeros retos de sus vidas. Guiados por experimentados miembros de sus familias, cada uno deberá descubrir cómo y dónde encontrar comida, así como a identificar el peligro.",
             "direccion": "Keith Scholey Linfield",
             "autor1": "Daveed Diggs"
@@ -324,7 +324,7 @@
             "categoria": "Suspenso",
             "año": "2011",
             "tiempo": "1h 47min",
-            "clasificacion": "15",
+            "clasificacion": 15,
             "descripcion": "Nina Sayers (Natalie Portman) es una joven e introvertida bailarina en una prestigiosa compañía de ballet de Nueva York. Vive con su madre, Erica (Barbara Hershey), que es una exbailarina y quien la consiente y la trata como una niña. La compañía se está preparando para abrir la temporada con El lago de los cisnes. El director, Thomas Leroy (Vincent Cassel), tiene que elegir una nueva bailarina principal después de obligar a Beth Macintyre (Winona Ryder) a la jubilación. Thomas quiere que la misma bailarina retrate tanto al inocente y frágil Cisne Blanco, como al gemelo sensual oscuro, el Cisne Negro. Nina audiciona para la obra, realizando a la perfección el Cisne Blanco, pero no es del todo capaz de emular las características del Cisne Negro. Aunque Nina no lo realiza bien durante su audición, se acerca a Thomas y le pide que la reconsidere como el papel principal. Él le dice que ella es la bailarina ideal para interpretar el Cisne Blanco, pero carece de la pasión necesaria para representar correctamente el Cisne Negro.",
             "direccion": "Darren Aronofsky",
             "autor1": "Natalie Portman",
@@ -340,7 +340,7 @@
             "categoria": "Drama",
             "año": "2014",
             "tiempo": "1h 54min",
-            "clasificacion": "13",
+            "clasificacion": 13,
             "descripcion": "Durante la Segunda Guerra Mundial, el genio inglés Alan Turing intenta descifrar el código alemán enigma con la ayuda de otros matemáticos.",
             "direccion": "Morten Tyldum",
             "autor1": "Benedict Cumberbatch",
@@ -356,7 +356,7 @@
             "categoria": "Musicales",
             "año": "2009",
             "tiempo": "1h 59min",
-            "clasificacion": "0",
+            "clasificacion": 0,
             "descripcion": "Andrei Filipov es limpiador en el Bolshoi, pero hace años era el director de orquesta del teatro. Mientras limpia el despacho del actual director, cae en sus manos un fax en el que se invita a la orquesta a tocar en el Théâtre du Châtelet de París.",
             "direccion": "Radu Mihăileanu",
             "autor1": "Mélanie Laurent",
@@ -372,7 +372,7 @@
             "categoria": "Documentales",
             "año": "21011",
             "tiempo": "1h 21min",
-            "clasificacion": "0",
+            "clasificacion": 0,
             "descripcion": "Narrado por Meryl Streep, esta mirada íntima a las mariposas, colibríes, abejas, murciélagos y flores es una celebración de la vida, ya que un tercio de los alimentos del mundo depende de estas criaturas amenazadas. Dirigida por el cineasta Louie Schwartzberg, Wings of Life utiliza fascinantes técnicas de creación de películas de alta velocidad para acercarse a estos héroes del planeta.",
             "direccion": "Louie Schwartzberg",
             "autor1": "Meryl Streep"
@@ -383,7 +383,7 @@
             "categoria": "Musicales",
             "año": "2002",
             "tiempo": "2h 30min",
-            "clasificacion": "12",
+            "clasificacion": 12,
             "descripcion": "Un judío polaco, pianista profesional, lucha por la supervivencia en Varsovia frente a la invasión nazi. Después de, gracias a unos amigos, haber evitado la deportación, el pianista debe vivir oculto y constantemente expuesto al peligro.",
             "direccion": "Roman Polanski",
             "autor1": "Adrien Brody",
@@ -399,8 +399,8 @@
             "categoria": "Documentales",
             "año": "2021",
             "tiempo": "1h 47min",
-            "clasificacion": "12",
-            "descripcion": "",
+            "clasificacion": 12,
+            "descripcion": "The Rescue narra la historia contra todo pronóstico que paralizó al mundo en 2018: el audaz rescate de doce niños y su entrenador de las profundidades de una cueva inundada en el norte de Tailandia. The Rescue arroja luz sobre el mundo de alto riesgo del espeleobuceo, el asombroso valor y la compasión de los rescatistas, y la humanidad compartida de la comunidad internacional que se unió para salvar a los chicos.",
             "direccion": "Elizabeth Chai Vasarhelyi, Jummy Chin",
             "autor1": "Amp Bangnoen",
             "autor2": "Lt. Gen. Bancha Duriyapunt",
@@ -414,7 +414,7 @@
             "categoria": "Suspenso",
             "año": "2021",
             "tiempo": "1h 42min",
-            "clasificacion": "18",
+            "clasificacion": 18,
             "descripcion": "Un homicida sádico y enmascarado mantiene a Finney, un niño de 13 años, secuestrado en un sótano incomunicado. A través de un teléfono averiado que hay en la pared, Finney se comunica con otras víctimas del criminal, quienes quieren ayudarlo.",
             "direccion": "Scott Derrickson",
             "autor1": "Ethan Hawke",
@@ -430,7 +430,7 @@
             "categoria": "Drama",
             "año": "2007",
             "tiempo": "1h 54min",
-            "clasificacion": "12",
+            "clasificacion": 12,
             "descripcion": "Un niño (Freddie Highmore) usa sus prodigiosos talentos musicales para encontrar a sus padres (Keri Russell, Jonathan Rhys Meyers), ignorando que ellos han iniciado un viaje similar para encontrarlo.",
             "direccion": "Kirsten Sheridan",
             "autor1": "Freddie Highmore",
@@ -446,7 +446,7 @@
             "categoria": "Comedia",
             "año": "2003",
             "tiempo": "1h 49min",
-            "clasificacion": "0",
+            "clasificacion": 0,
             "descripcion": "Despedido por su banda y en problemas económicos, un guitarrista desempleado se hace pasar por maestro en una escuela.",
             "direccion": "Richard Linklater",
             "autor1": "Jack Black",
@@ -462,7 +462,7 @@
             "categoria": "Documentales",
             "año": "2011",
             "tiempo": "1h 30min",
-            "clasificacion": "0",
+            "clasificacion": 0,
             "descripcion": "Una historia épica, ambientada en uno de los lugares más salvajes de la Tierra. Los leones africanos capturan la esencia del amor, el humor y la determinación de los majestuosos reyes de la sabana. Conozcan a Mara, una entrañable cachorra de león tratando de ser como su madre; Sita, una chita, madre soltera de cinco; y Fang, un líder con el orgullo de defender a su familia de un rival león.",
             "direccion": "Keith Scholey",
             "autor1": "Samuel L. Jackson"
@@ -473,7 +473,7 @@
             "categoria": "Suspenso",
             "año": "2016",
             "tiempo": "1h 57min",
-            "clasificacion": "18",
+            "clasificacion": 18,
             "descripcion": "Kevin, un hombre con 23 personalidades, secuestra a 3 chicas jóvenes y las mantiene retenidas en un sótano. A medida que una de sus personalidades va imponiéndose al resto, la vida de las chicas, y la del propio Kevin, peligra cada vez más.",
             "direccion": "M. Night Shyamalan",
             "autor1": "James McAvoy",
@@ -489,7 +489,7 @@
             "categoria": "Documentales",
             "año": "2018",
             "tiempo": "1h 41min",
-            "clasificacion": "13",
+            "clasificacion": 13,
             "descripcion": "Una increíble, íntima e inquebrantable imagen de Alex Honnold, el escalador en solitario más exitoso del mundo, se prepara mental y físicamente para su mayor sueño: escalar El Capitán de 2300 msnm en Yosemite sin cuerdas. Los famosos cineastas Chai Vasarhelyi y Jimmy Chin lo filman a la perfección.",
             "direccion": "Elizabeth Chai Vasarhelyi, Jummy Chin",
             "autor1": "Alex Honnold",
@@ -501,7 +501,7 @@
             "categoria": "Comedia",
             "año": "2009",
             "tiempo": "1h 29min",
-            "clasificacion": "0",
+            "clasificacion": 0,
             "descripcion": "Emma (Anne Hathaway) y Liv (Kate Hudson), dos amigas incondicionales desde la infancia, han soñado con casarse en junio en el Hotel Plaza de Nueva York. Esa ilusión podrán compartirla, ya que sus bodas se celebrarán el mismo fin de semana. Un error administrativo, sin embargo, nubla tanta felicidad: las bodas han sido reservadas para el mismo día, y una de las dos tendrá que cambiar la fecha. Como ninguna de las dos está dispuesta a renunciar, acabarán enfrentándose en una feroz competición, en la que usarán todos los medios a su alcance.",
             "direccion": "Gary Winick",
             "autor1": "Anne Hathaway",
@@ -517,7 +517,7 @@
             "categoria": "Documentales",
             "año": "2014",
             "tiempo": "44 min",
-            "clasificacion": "7",
+            "clasificacion": 8,
             "descripcion": "Hace siete millones de años, Hawái emergió del mar como un desierto volcánico. Cómo estas islas se transformaron en un paraíso es una historia que desafía las probabilidades y las expectativas. National Geographic nos lleva a un viaje indómito a estas asombrosas tierras, que a través de una alquimia de fuego, hielo y agua se convirtieron en un experimento incesante en la creación.",
             "direccion": "JK Simmons"
         },
@@ -527,7 +527,7 @@
             "categoria": "Suspenso",
             "año": "2017",
             "tiempo": "1h 44min",
-            "clasificacion": "18",
+            "clasificacion": 18,
             "descripcion": "Chris va a conocer a los padres de Rose, su novia. Al principio se muestran encantadores, si bien un tanto nerviosos. Chris supone que se debe a que él es negro, pero un poco más tarde descubre que sus suegros ocultan un secreto espeluznante.",
             "direccion": "Jordan Peele",
             "autor1": "Daniel Kaluuya",
@@ -543,7 +543,7 @@
             "categoria": "Suspenso",
             "año": "2012",
             "tiempo": "1h 41min",
-            "clasificacion": "16",
+            "clasificacion": 16,
             "descripcion": "Una madre divorciada y su hija descubren que se mudaron junto a la casa donde una niña asesinó a sus padres y luego desapareció, pero la historia está lejos de cerrarse.",
             "direccion": "Mark Tonderai",
             "autor1": "Jennifer Lawrence",
@@ -559,7 +559,7 @@
             "categoria": "Musicales",
             "año": "2016",
             "tiempo": "2h 08min",
-            "clasificacion": "0",
+            "clasificacion": 0,
             "descripcion": "Sebastian, un pianista de jazz, y Mia, una aspirante a actriz, se enamoran locamente; pero la ambición desmedida que tienen por triunfar en sus respectivas carreras, en una ciudad como Los Ángeles, repleta de competencia y carente de piedad, pone en peligro su amor.",
             "direccion": "Damien Chazelle",
             "autor1": "Emma Stone",
@@ -575,7 +575,7 @@
             "categoria": "Comedia",
             "año": "2005",
             "tiempo": "1h 31min",
-            "clasificacion": "13",
+            "clasificacion": 13,
             "descripcion": "Dick Harper es, por fin, ascendido a vicepresidente en su compañía, pero un escándalo arruina la empresa. Entonces, Dick y su esposa Jane ven cómo su lujosa casa, sus ostentosos autos e, incluso, sus amistades se desvanecen como por arte de magia.",
             "direccion": "Dean Parisot",
             "autor1": "Jim Carrey",
@@ -591,7 +591,7 @@
             "categoria": "Comedia",
             "año": "2008",
             "tiempo": "1h 41min",
-            "clasificacion": "13",
+            "clasificacion": 13,
             "descripcion": "Jack Fuller acaba de ser despedido de la empresa de su propio padre. Mientras tanto, Joy McNally ha sido plantada por su novio. Ambos deciden ir a Las Vegas, donde terminan casados tras una noche de locura y descontrol.",
             "direccion": "Tom Vaughan",
             "autor1": "Ashton Kutcher",
@@ -607,7 +607,7 @@
             "categoria": "Musicales",
             "año": "2004",
             "tiempo": "1h 37min",
-            "clasificacion": "",
+            "clasificacion": 10,
             "descripcion": "Clement Mathieu, un profesor de música, empieza a trabajar como vigilante en un internado de reeducación de menores. En sus esfuerzos por acercarse a los chicos se entrega a la tarea de familiarizarlos con la magia del canto.",
             "direccion": "Christophe Barratier",
             "autor1": "Jean-Baptiste Maunier",
@@ -623,7 +623,7 @@
             "categoria": "Musicales",
             "año": "2012",
             "tiempo": "2h 38min",
-            "clasificacion": "16",
+            "clasificacion": 16,
             "descripcion": "Después de 19 años como prisionero, Jean Valjean es liberado por Javert, el oficial a cargo de la fuerza de trabajo de la prisión. Valjean viola su libertad y más tarde usa el dinero robado para reinventarse como alcalde y dueño de una fábrica. Por su parte, Javert promete llevar a Valjean de vuelta a la cárcel. Ocho años después, Valjean se convierte en el guardián de un niño llamado Cosette tras la muerte de su madre, pero la persecución de Javert significa que la paz tardará en llegar.",
             "direccion": "Tom Hooper",
             "autor1": "Hugh Jackman",
@@ -639,7 +639,7 @@
             "categoria": "Suspenso",
             "año": "2022",
             "tiempo": "1h 25min",
-            "clasificacion": "16",
+            "clasificacion": 16,
             "descripcion": "Un grupo de amigos que está celebrando las vacaciones en México roba motos acuáticas y sufre un accidente. Con uno de ellos gravemente herido, deben volver a tierra atravesando un mar infestado de tiburones hambrientos.",
             "direccion": "James Nunn",
             "autor1": "Catherine Hannay",
@@ -655,7 +655,7 @@
             "categoria": "Comedia",
             "año": "2000",
             "tiempo": "1h 39min",
-            "clasificacion": "0",
+            "clasificacion": 0,
             "descripcion": "Un agente federal se hace pasar por una abuela de gran tamaño para lograr atrapar a un ladrón de bancos.",
             "direccion": "Raja Gosnell",
             "autor1": "Martin Lawrence",
@@ -671,7 +671,7 @@
             "categoria": "Musicales",
             "año": "2018",
             "tiempo": "2h 15min",
-            "clasificacion": "12",
+            "clasificacion": 12,
             "descripcion": "Jackson, una estrella de la música country con problemas de alcoholismo, descubre el talento de Ally, una joven cantante de la cual se enamora. Mientras la carrera de ella despega, Jackson percibe que sus días de gloria están llegando a su fin.",
             "direccion": "Bradley Cooper",
             "autor1": "Bradley Cooper",
@@ -687,7 +687,7 @@
             "categoria": "Suspenso",
             "año": "2022",
             "tiempo": "2h 02min",
-            "clasificacion": "",
+            "clasificacion": 15,
             "descripcion": "Una esposa de los años 50 en una comunidad utópica comienza a preocuparse por los misteriosos secretos que oculta la empresa de su marido.",
             "direccion": "Olivia Wilde",
             "autor1": "Florence Pugh",
@@ -703,7 +703,7 @@
             "categoria": "Documentales",
             "año": "2017",
             "tiempo": "47min",
-            "clasificacion": "14",
+            "clasificacion": 14,
             "descripcion": "Un recorrido por los comienzos, los avances e innovaciones que llevaron a la humanidad a la modernidad.",
             "direccion": "National Geographic Channel",
             "autor1": "Jason Silva",
@@ -719,7 +719,7 @@
             "categoria": "Documentales",
             "año": "2014",
             "tiempo": "1h 18min",
-            "clasificacion": "0",
+            "clasificacion": 0,
             "descripcion": "Comparte un año en la vida de una familia de osos entrañable aprendiendo a vivir la vida al máximo. Ambientada en la majestuosa Alaska, el viaje de la madre, Sky, muestra cómo enseña a sus dos cachorros impresionables las lecciones más importantes de la vida. Emergiendo de la hibernación, los tres enfrentan el frío y excitante mundo exterior.",
             "direccion": "Alastair Fothergill,  Keith Scholey",
             "autor1": "John C. Reilly"
@@ -730,7 +730,7 @@
             "categoria": "Suspenso",
             "año": "2019",
             "tiempo": "2h 12min",
-            "clasificacion": "15",
+            "clasificacion": 15,
             "descripcion": "Tanto Gi Taek como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo, empieza a impartir clases particulares en la adinerada casa de los Park, las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, entablan una relación de resultados imprevisibles.",
             "direccion": "Bong Joon-ho",
             "autor1": "Choi Woo-shik",
@@ -746,7 +746,7 @@
             "categoria": "Documentales",
             "año": "2020",
             "tiempo": "1h",
-            "clasificacion": "12",
+            "clasificacion": 12,
             "descripcion": "El 8 de junio de 1924, los exploradores británicos George Mallory y Andrew Irvine desaparecieron en el Monte Everest, a sólo 244 metros de llegar a la cima. Se cree que llevaban consigo una cámara. Esa cámara podría reescribir la historia. Un equipo de alpinistas busca el cuerpo de Irvine para resolver el mayor misterio del Everest.",
             "direccion": "Renan Ozturk",
             "autor1": "Tate Donovan"
@@ -757,7 +757,7 @@
             "categoria": "Documentales",
             "año": "2019",
             "tiempo": "47min",
-            "clasificacion": "12",
+            "clasificacion": 12,
             "descripcion": "“Planeta hostil” pone atención a las historias más extraordinarias y casi supernaturales de animales que se adaptaron a la evolución más cruel. Liderados por el experto en supervivencia y aventurero Bear Grylls, “Planeta hostil” explora los ambientes más extremos del mundo para revelar las épicas historias de supervivencia del reino animal en este planeta que cambia rápida y continuamente.",
             "direccion": "Bear Grylls"
         },
@@ -767,7 +767,7 @@
             "categoria": "Documentales",
             "año": "2019",
             "tiempo": "44min",
-            "clasificacion": "12",
+            "clasificacion": 12,
             "descripcion": "En pleno apogeo del Imperio Romano, una erupción del Monte Vesubio entierra a la ciudad de Pompeya bajo cenizas volcánicas y mata a miles de personas. Ahora, expertos forenses investigan por primera vez a un grupo de víctimas llamado Los Fugitivos. Los rayos X revelan las edades, las heridas que sufrieron y hasta objetos como sandalias y joyas; la investigación también devela por qué no pudieron escapar.",
             "direccion": "Ben Finney",
             "autor1": "Mite Jauregui"
@@ -778,7 +778,7 @@
             "categoria": "Musicales",
             "año": "2009",
             "tiempo": "2h 15min",
-            "clasificacion": "12",
+            "clasificacion": 12,
             "descripcion": "Inspirada en la revolución de la radio pirata en la Inglaterra en 1960, la película cuenta la historia de Carl, que es expulsado de su colegio y enviado a pasar una temporada con su padrino Quentin, jefe de una emisora pirata.",
             "direccion": "Richard Curtis",
             "autor1": "Bill Nighy",
@@ -794,7 +794,7 @@
             "categoria": "Musicales",
             "año": "2004",
             "tiempo": "2h 32min",
-            "clasificacion": "",
+            "clasificacion": 14,
             "descripcion": "La vida de Ray Charles, un niño pobre y ciego que fue capaz de cambiar el curso de la música estadounidense cuando decidió cruzar el país para entrar en la escena de jazz de Seattle.",
             "direccion": "Taylor Hackford",
             "autor1": "Jamie Foxx",
@@ -810,7 +810,7 @@
             "categoria": "Musicales",
             "año": "2015",
             "tiempo": "2h 27min",
-            "clasificacion": "16",
+            "clasificacion": 16,
             "descripcion": "En la película se retrata, además, el contexto político de Estados Unidos en los años 80s y 90s, y el abuso de poder por parte de la policía hacia la población negra. Se hace referencia a hechos ocurridos principalmente en los escenarios de Compton y Los Ángeles y, en particular, se presta mucha atención al famoso caso de Rodney King4​ y el juicio posterior a su apaleamiento por la policía de Los Ángeles.",
             "direccion": "F. Gary Gray",
             "autor1": "Jason Mitchell",
@@ -824,7 +824,7 @@
             "categoria": "Documentales",
             "año": "2020",
             "tiempo": "44min",
-            "clasificacion": "12",
+            "clasificacion": 12,
             "descripcion": "Regreso al Titanic registra las primeras incursiones tripuladas en casi 15 años. Un grupo de expertos usa un submarino especialmente equipado para captar la primera filmación en 4K del barco para analizar el ritmo de deterioro. Construyeron el modelo más preciso que existe del naufragio para explicar las historias emblemáticas del Titanic y dejar una plataforma experimental en el fondo del mar para predecir el futuro del Titanic.",
             "direccion": "Tom Stubberfield",
             "autor1": "Nigel Barber"
@@ -835,7 +835,7 @@
             "categoria": "Documentales",
             "año": "2019",
             "tiempo": "44min",
-            "clasificacion": "10",
+            "clasificacion": 10,
             "descripcion": "El explorador y fotógrafo de National Geographic Ronan Donovan viaja al Ártico, a una zona donde no habita ningún ser humano, en busca del legendario lobo blanco. Nunca se ha seguido a uno de estos lobos, son valientes y libres, por lo que ésta es una gran oportunidad para saber más sobre este misterioso depredador, así como para verlo más cerca que nunca.",
             "direccion": "Jenny Jules"
         },
@@ -845,7 +845,7 @@
             "categoria": "Suspenso",
             "año": "2015",
             "tiempo": "1h 51min",
-            "clasificacion": "15",
+            "clasificacion": 15,
             "descripcion": "Ray, un agente del FBI, está dispuesto a todo por atrapar al asesino de la hija de su compañera, quien lleva 13 años eludiendo su captura. Ahora, una nueva pista parece que por fin le conduce por el buen camino, pero esa pista encierra un secreto perturbador que tal vez no sea capaz de aceptar.",
             "direccion": "Billy Ray",
             "autor1": "Julia Roberts",
@@ -861,7 +861,7 @@
             "categoria": "Comedia",
             "año": "2001",
             "tiempo": "1h 30min",
-            "clasificacion": "12",
+            "clasificacion": 12,
             "descripcion": "Shrek es un ogro solitario, huraño, territorial y temible que vive en una casa en un pantano, espantando a los aldeanos que se acercan a su pantano con el fin de cazarlo. Un día conoce a un burro parlante, llamado simplemente Burro",
             "direccion": "Andrew Adamson, Vicky Jenson",
             "autor1": "Mike Myers",
@@ -877,7 +877,7 @@
             "categoria": "Comedia",
             "año": "2010",
             "tiempo": "1h 42min",
-            "clasificacion": "",
+            "clasificacion": 10,
             "descripcion": "Un grupo de amigos y excompañeros descubren que envejecer no siempre significa madurar cuando se reúnen para honrar la memoria de su entrenador de baloncesto.",
             "direccion": "Dennis Dugan",
             "autor1": "Adam Sandler",
@@ -893,7 +893,7 @@
             "categoria": "Documentales",
             "año": "2019",
             "tiempo": "44min",
-            "clasificacion": "14",
+            "clasificacion": 14,
             "descripcion": "Tesoros Perdidos de Egipto es una serie inmersiva de acción muestra a equipos de egiptólogos que desentierran lo más rico de la arqueología antigua. Con excavaciones y un acceso sin precedentes equipos avanzados de arqueología, estos exploradores modernos batallan contra el calor y un terreno inhóspito para hacer enormes descubrimientos.",
             "direccion": "Rick Robles"
         },
@@ -903,7 +903,7 @@
             "categoria": "Documentales",
             "año": "2020",
             "tiempo": "44min",
-            "clasificacion": "",
+            "clasificacion": 10,
             "descripcion": "Revelamos el misterio de estos peligrosos gigantes: cómo migran y cómo cazan. El biólogo marino Dr. Ryan Daly y un equipo de científicos utilizan tecnología de vanguardia para revelar los movimientos y el comportamiento de los tiburones toro con la esperanza de comprender mejor por qué se nos están acercando.",
             "direccion": "Keston John"
         },
@@ -913,7 +913,7 @@
             "categoria": "Suspenso",
             "año": "2023",
             "tiempo": "1h 59min",
-            "clasificacion": "16",
+            "clasificacion": 16,
             "descripcion": "Tras sufrir un aborto traumático, una pareja joven adopta en un convento a dos peculiares gemelos, cuya obsesión por la religión pronto perturba a la familia.",
             "direccion": "Rubin Stein",
             "autor1": "Anastasia Russo",
@@ -929,7 +929,7 @@
             "categoria": "Suspenso",
             "año": "2018",
             "tiempo": "1h 30min",
-            "clasificacion": "",
+            "clasificacion": 16,
             "descripcion": "En el año 2020, unas criaturas misteriosas con un sentido auditivo extraordinario han diezmado a la población mundial. Una familia se oculta en una cabaña y se comunica mediante la lengua de signos para no ser cazados por estos monstruos.",
             "direccion": "John Krasinski",
             "autor1": "John Krasinski",
@@ -943,7 +943,7 @@
             "categoria": "Comedia",
             "año": "2011",
             "tiempo": "1h 57min",
-            "clasificacion": "",
+            "clasificacion": 12,
             "descripcion": "El cirujano Danny decide contratar a su ayudante Katherine, una madre soltera con hijos, para que finjan ser su familia. Su intención es demostrarle a Palmer que su amor por ella es tan grande que está a punto de divorciarse de su mujer.",
             "direccion": "Dennis Dugan",
             "autor1": "Adam Sandler",
@@ -959,7 +959,7 @@
             "categoria": "Comedia",
             "año": "2016",
             "tiempo": "1h 56min",
-            "clasificacion": "10",
+            "clasificacion": 10,
             "descripcion": "Un agente de la CIA que solía sufrir acoso escolar se reencuentra con sus compañeros en una reunión de antiguos alumnos, aunque ahora él es musculoso y fuerte. Allí recluta al que era el chico más popular de la escuela, quien ahora tiene una vida monótona y predecible, para que le ayude en una peligrosa misión en la que ambos tendrán que arriesgarlo todo.",
             "direccion": "Rawson Marshall Thurber",
             "autor1": "Dwayne Johnson",
@@ -975,7 +975,7 @@
             "categoria": "Musicales",
             "año": "1978",
             "tiempo": "1h 50min",
-            "clasificacion": "12",
+            "clasificacion": 12,
             "descripcion": "El rebelde Danny Zuko y la inocente australiana Sandy mantienen un romance durante las vacaciones, creyendo que no se volverán a ver; sin embargo, para sorpresa de ambos, se reencuentran en la escuela secundaria al empezar el nuevo curso.",
             "direccion": "Randal Kleiser",
             "autor1": "John Travolta",
@@ -991,7 +991,7 @@
             "categoria": "Suspenso",
             "año": "2022",
             "tiempo": "1h 47min",
-            "clasificacion": "13",
+            "clasificacion": 13,
             "descripcion": "Becky y Hunter, dos amigas aficionadas al alpinismo, quedan atrapadas en la torre de telecomunicaciones de la cima de una montaña que acaban de escalar. Sin provisiones y afectadas por el vértigo, comienza la lucha por la supervivencia.",
             "direccion": "Scott Mann",
             "autor1": "Virginia Gardner",
@@ -1007,7 +1007,7 @@
             "categoria": "Comedia",
             "año": "2004",
             "tiempo": "1h 49min",
-            "clasificacion": "13",
+            "clasificacion": 13,
             "descripcion": "Dos torpes agentes del FBI se hacen pasar por dos chicas de la alta sociedad para investigar una serie de secuestros. No obstante, mientras preparan su plan, descubren que irrumpir en la clase privilegiada es mucho más duro de lo que creían.",
             "direccion": "Keenen Ivory Wayans",
             "autor1": "Marlon Wayans",
@@ -1018,8 +1018,8 @@
             "autor6": "Jessica Cauffiel"
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/2corazones.jpg?alt=media&token=d72787e4-d130-40f4-bf1b-eea13e7fa6cc",
+            "nombre": "2 Corazones",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1034,8 +1034,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/50sombrasdegrey.jpg?alt=media&token=ad8894f8-6047-471d-8f7b-724267816a24",
+            "nombre": "50 Sobras de Grey",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1050,8 +1050,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/Dolittle.jpg?alt=media&token=b72e2715-87b6-49ea-98de-890e126ca6bd",
+            "nombre": "Dolittle",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1066,8 +1066,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/Lightyear.jpeg?alt=media&token=2a2dfebc-e037-4094-aca4-c708a59edec4",
+            "nombre": "Lightyear",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1082,8 +1082,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/adosmetrosdeti.webp?alt=media&token=f7370d86-ea67-4644-8b88-f13e36738867",
+            "nombre": "A 2 Metros de ti",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1098,8 +1098,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/aladin.jpeg?alt=media&token=9cfd8e1e-658a-48c2-9b4f-0f1ebc5a395a",
+            "nombre": "Aladin",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1114,8 +1114,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/aliciaenelpaisdelasmaravillas.jpeg?alt=media&token=4eaa9571-14de-4bb5-ba4e-aef6a214ae12",
+            "nombre": "Alicia en el Pais de las Maravillas",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1130,8 +1130,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/cazadorylareinadelhiejo.jpg?alt=media&token=38e1ec77-497f-40ce-8c46-687e2bf537fb",
+            "nombre": "El Cazador y la Reina de Hielo",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1146,8 +1146,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/cenicienta.jpeg?alt=media&token=6f85242b-f5aa-4095-a0f6-3c95de9dd1b3",
+            "nombre": "La Cenicienta",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1162,8 +1162,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/crepusculo.jpg?alt=media&token=9621c284-2f08-4fea-a1c3-19adb756408e",
+            "nombre": "Crepúsculo",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1178,8 +1178,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/cristopherrobin.jpeg?alt=media&token=e93465a0-7e2f-4b80-a6e0-a96d27b1d0db",
+            "nombre": "Cristopher Robin",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1194,8 +1194,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/cruella.jpeg?alt=media&token=8fddafe5-5c12-4ca6-94c8-3310d1446cac",
+            "nombre": "Cruella",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1210,8 +1210,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/cuandoteencuentre.jpg?alt=media&token=bdda10fe-0a63-468e-b6a4-606830ee9468",
+            "nombre": "Cuando te Encuentre",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1226,8 +1226,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/culpamia.jpg?alt=media&token=6b9e9887-532b-46cb-9f6e-26cef88894f2",
+            "nombre": "Culpa Mía",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1242,8 +1242,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/diariodeunapasion.jpg?alt=media&token=d37f3f6d-ffbe-4ff4-9f0a-ccd40e8f1b7e",
+            "nombre": "Diario de una Pasión",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1258,8 +1258,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/dumbo.jpeg?alt=media&token=c99bff77-8d8e-4698-8d1c-fc45fe27b956",
+            "nombre": "Dumbo",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1274,8 +1274,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/elcascanueces.jpeg?alt=media&token=fa92be67-f54e-4a80-83bf-f895a3ba1f99",
+            "nombre": "El Cascanueces",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1290,8 +1290,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/elcuriosocasodebenjaminbutton.jpeg?alt=media&token=749b8aed-aff0-4df8-a91d-18cac862b743",
+            "nombre": "El curioso caso de Benjamin Button",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1306,8 +1306,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/eldiariodebritgetjones.jpg?alt=media&token=0c1f17db-ea9f-4e12-832a-4a4eee2620e9",
+            "nombre": "El Diario de Bridget Jones",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1322,8 +1322,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/ellibrodelaselva.jpeg?alt=media&token=ca7f1e1b-5046-4315-8e34-dea267e2ff0e",
+            "nombre": "El Libro de la Selva",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1338,8 +1338,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/elmarciano.jpg?alt=media&token=8f548219-c395-4df6-ae77-5baba919b4a1",
+            "nombre": "El Marciano",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1354,8 +1354,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/elpoderosooz.jpeg?alt=media&token=33f4b61a-b098-442b-812a-1057bd095989",
+            "nombre": "El Poderoso Oz",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1370,8 +1370,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/elpreciodelma%C3%B1ana.jpeg?alt=media&token=6660a1d8-d383-4ade-aabc-adfe98aafdc9",
+            "nombre": "El Precio del Mañana",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1386,8 +1386,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/elreyleon.jpeg?alt=media&token=444321a9-6dce-4bf6-88cf-66a99ad5b8d3",
+            "nombre": "El Rey León",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1402,8 +1402,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/elsecretodeadeline.jpg?alt=media&token=7bb994ff-b060-4e89-853b-dd68d91959d6",
+            "nombre": "El Secreto de Adleine",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1418,8 +1418,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/enbuscadelafelicidad.jpg?alt=media&token=b24c0489-23ef-471d-ad06-a7bfa271594f",
+            "nombre": "En Busca de la Felicidad",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1434,8 +1434,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/enelbosque.jpeg?alt=media&token=46e99fbe-51ba-4607-aa11-84de1df2b9c0",
+            "nombre": "En el Bosque",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1450,8 +1450,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/entredosmundos.jpg?alt=media&token=4d55a7a5-d98f-4afb-9401-0508b9e5122a",
+            "nombre": "Entre dos Mundos",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1466,8 +1466,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/espejitoespejito.jpg?alt=media&token=16fad0f9-6996-4d81-8911-718050f5a40d",
+            "nombre": "Espejito Espejito",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1482,8 +1482,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/extraordianrio.jpg?alt=media&token=2b8a4696-2179-47de-9171-4cdec2c090f9",
+            "nombre": "Extraordianrio",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1498,8 +1498,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/journey.jpg?alt=media&token=73e84310-26f9-4100-a785-a32484f45b8b",
+            "nombre": "Viaje al Centro de la Tierra",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1514,8 +1514,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/la-chica-danesa_2880x1800_xtrafondos.com.jpg?alt=media&token=fc01fb84-eecb-4987-b6ae-12728b623073",
+            "nombre": "La Chica Danesa",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1530,8 +1530,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/ladamayelvagabundo.jpeg?alt=media&token=dfce19a2-94fa-4810-b9b7-7c43586e2e1b",
+            "nombre": "La Dama y el Vagabundo",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1546,8 +1546,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/larazondeestarcontigo.jpg?alt=media&token=d6920f61-30ae-495b-9049-c0a948dc217c",
+            "nombre": "La Razón de estar Contigo",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1562,8 +1562,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/leyendadeltesoroperdido.jpeg?alt=media&token=08c91e4c-0c22-42a0-8630-252f3da7f547",
+            "nombre": "La Leyenda del Tesoro Perdido",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1578,8 +1578,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/loimposible.jpg?alt=media&token=cd19268e-001d-4b1e-a187-5a2d85f49b27",
+            "nombre": "Lo Imposible",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1594,8 +1594,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/los3mosqueteros.jpg?alt=media&token=454fab09-4da6-4885-96b6-6864a2fd2944",
+            "nombre": "Los 3 Mosqueteros",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1610,8 +1610,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/loscrods.jpg?alt=media&token=2b76e6d0-60b4-4ef4-b558-f7bbfc539f33",
+            "nombre": "Los Crods",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1626,8 +1626,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/malefica.jpeg?alt=media&token=41d3241e-e6f2-426e-a0e4-401f5746f3c9",
+            "nombre": "Malefica",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1642,8 +1642,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/maravillosodesastre.avif?alt=media&token=6ebb6475-a5b9-4538-85b8-62a45b951127",
+            "nombre": "Maravilloso Desastre",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1658,8 +1658,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/maslladelcielo.jpg?alt=media&token=8484bf5a-7bfd-4201-9066-701a9428d836",
+            "nombre": "Más allá del Cielo",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1674,8 +1674,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/milagrosdelcielo.jpg?alt=media&token=20d25a4d-3e58-444e-8883-a63e837791f1",
+            "nombre": "Milagros del Cielo",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1690,8 +1690,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/mimascotaesunleon.jpg?alt=media&token=b7fab49e-e1c6-47d0-8177-4b3e77b1822f",
+            "nombre": "Mi Mascota es un León",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1706,8 +1706,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/mimascotaesunmonstruo.jpg?alt=media&token=781f91f2-f2e4-41c4-ae3b-16c68305d258",
+            "nombre": "Mi Mascota es un Monstruo",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1722,8 +1722,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/missperegrineylosni%C3%B1ospeculiares.webp?alt=media&token=cadf49e5-40b0-404d-a314-9f2234af9118",
+            "nombre": "Miss Peregrine y los Niños Peculiares",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1738,8 +1738,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/mujermaravilla.webp?alt=media&token=522c3266-d1e5-4997-b2b6-fbfa2baddf06",
+            "nombre": "Mujer Maravilla",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1754,8 +1754,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/mulan.jpeg?alt=media&token=903b9f9f-6c01-4413-9d91-961801bc3f71",
+            "nombre": "Mulán",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1770,8 +1770,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/orgulloyprejuicio.jpg?alt=media&token=418ed186-dd2f-4764-abaa-1e296d54cf69",
+            "nombre": "Orgullo y Prejuicio",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1786,8 +1786,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/pasajeros.jpg?alt=media&token=c6ca0dbd-40cb-40ab-8289-b0e8d1cfe40c",
+            "nombre": "Pasajeros",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1802,8 +1802,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/pelicula-dungeons-and-dragons-honor-entre-ladrones-cast_3840x2160_xtrafondos.com.jpg?alt=media&token=680254cd-7ff3-4067-bc0e-12a57a6755f1",
+            "nombre": "Calabozos y Dragones: Honor entre Ladrones",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1818,8 +1818,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/petterpanywendy.jpeg?alt=media&token=0ceef208-fdbb-4095-9310-2a96d94d0377",
+            "nombre": "Petter Pan y Wendy",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1834,8 +1834,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/pinocho.jpeg?alt=media&token=d133f60b-2530-4bbd-b38f-3faac2cb7aad",
+            "nombre": "Pinocho",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1850,8 +1850,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/principedepersia.jpg?alt=media&token=03cee46e-af50-49ac-a6f7-1ffe73ea637e",
+            "nombre": "El Príncipe de Persia: Las Arenas del Tiempo",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1866,8 +1866,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/proyectoadam.webp?alt=media&token=7f2244f5-a83f-4586-ba3d-2dc906a0495f",
+            "nombre": "Proyecto Adam",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1882,8 +1882,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/rescateenlaantartida.jpg?alt=media&token=a2ed0437-8347-4e5b-b509-f06e966a060c",
+            "nombre": "Rescate en la Antártida",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1898,8 +1898,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/spirit.jpg?alt=media&token=29be9a61-e5bb-4279-9855-3703cfa7afcd",
+            "nombre": "Spirit: El Corcel Indomable",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1914,8 +1914,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/superman.webp?alt=media&token=273aa2ab-cc0d-4bd4-a91c-610009990e6a",
+            "nombre": "El Hombre de Acero",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1930,8 +1930,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/tarzan.jpeg?alt=media&token=ae76046c-6176-40e8-b927-c660e2230628",
+            "nombre": "La Leyenda de Tarzán",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1946,8 +1946,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/titanic.jpg?alt=media&token=874c147d-53ba-4143-a0e4-7fa64e21d46d",
+            "nombre": "Titanic",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1962,8 +1962,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/todotodo.jpg?alt=media&token=e6bf13f7-b763-4535-95f5-2978f655feee",
+            "nombre": "Todo Todo",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1978,8 +1978,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/troya.jpg?alt=media&token=4e937920-b8c6-4425-8506-4ba73dec440c",
+            "nombre": "Troya",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -1994,8 +1994,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/unsue%C3%B1oposible.jpg?alt=media&token=f9076001-c9b9-4a3e-99dd-96cc7625e77c",
+            "nombre": "Un Sueño Posible",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2010,8 +2010,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/vdevenganza.jpg?alt=media&token=56902fa6-519a-4a43-93c0-288c27a87e33",
+            "nombre": "V de Venganza",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2026,8 +2026,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/vidadepapel.jpg?alt=media&token=7c0db7b2-a306-4593-8b23-59351cef08df",
+            "nombre": "Vidas de Papel",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2042,8 +2042,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/votosdeamor.jpg?alt=media&token=18e889ff-6b39-4e89-8783-f0c7efbdd069",
+            "nombre": "Votos de Amor",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2058,8 +2058,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/luxe-drive.appspot.com/o/yoantesdeti.jpg?alt=media&token=246d5269-7405-4ad3-80f1-751243fb83dd",
+            "nombre": "Yo Antes de Ti",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2074,8 +2074,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/22contralatierra.jpeg?alt=media&token=21efb4cf-ec24-46e3-8fb8-1b3369248cf6",
+            "nombre": "22 Contra la Tierra",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2090,8 +2090,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/aventurasenelecamino.jpeg?alt=media&token=7fcbbad2-94d1-40ca-9061-95306fc24bf1",
+            "nombre": "Cars: Aventuras en el Camino",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2106,8 +2106,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/balncanieves.jpeg?alt=media&token=81546e45-75f8-477f-bb77-50161ed41ec6",
+            "nombre": "Blancanieves",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2122,8 +2122,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/burn-e.jpeg?alt=media&token=cfa95526-bb2c-450c-88c8-a0c073eed4f4",
+            "nombre": "Burn-E",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2138,8 +2138,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/busquedaimplacable.webp?alt=media&token=f04315f9-9294-44d3-9a9e-2cc673b09c2b",
+            "nombre": "Busqueda Implacable",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2154,8 +2154,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/capitanamarvel.jpeg?alt=media&token=b44754d7-e153-47ba-b88f-c4c30acef0f2",
+            "nombre": "Capitana Marvel",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2170,8 +2170,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/capitanamerica.jpeg?alt=media&token=a1730228-a01b-4e8b-a12c-ce4dec130802",
+            "nombre": "Capitán América: El Primer Vengador",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2186,8 +2186,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/cars.jpeg?alt=media&token=9bd0c8c8-7825-45b3-9f42-bacf15096ef7",
+            "nombre": "Cars",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2202,8 +2202,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/coco.jpeg?alt=media&token=77c46c14-1eeb-42d6-8bce-73dd0fa90a4f",
+            "nombre": "Coco",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2218,8 +2218,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/comoentrenaratudragon.jpg?alt=media&token=6bbc9a22-dea4-4b78-9938-1ae3d4aff396",
+            "nombre": "Como Entrenar a tu Dragón",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2234,8 +2234,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/creed.jpg?alt=media&token=3d34dea6-a584-4fe8-8a1c-52a80b2dff7f",
+            "nombre": "Creed: Corazón de Campeón",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2250,8 +2250,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/cuatrofantasticos.jpeg?alt=media&token=5b0dc9bd-90bf-48b3-be4e-c9700dd7f373",
+            "nombre": "Los 4 Fantásticos",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2266,8 +2266,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/deadpool.jpeg?alt=media&token=afc1efa4-2b55-439f-b6bd-34079bf04a63",
+            "nombre": "Deadpool",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2282,8 +2282,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/doctorstrange.jpeg?alt=media&token=887418a5-145e-4881-b6bb-69666d48cd0d",
+            "nombre": "Doctor Strange: Hechicero Supremo",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2298,8 +2298,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/edna.jpeg?alt=media&token=e3996418-f96f-4e22-bd39-6c443ce1bcb1",
+            "nombre": "Edna",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2314,8 +2314,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/encanto.jpeg?alt=media&token=e248107f-e743-4bad-a779-d8d53eb08b9b",
+            "nombre": "Encanto",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2330,8 +2330,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/enredados.jpeg?alt=media&token=02b9acbd-16d4-4ef9-8a2c-802dbf4855bf",
+            "nombre": "Enredados",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2346,8 +2346,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/estoesguerra.jpeg?alt=media&token=b81c2727-b600-4a24-a9d8-ba1298f557d7",
+            "nombre": "Esto es Guerra",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2362,8 +2362,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/eternals.jpeg?alt=media&token=aa4c23fb-3ad0-4039-a512-fd4e569d39b5",
+            "nombre": "Eternals",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2378,8 +2378,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/fiestasaurio.jpeg?alt=media&token=ff8ec09d-bf78-4362-b582-ab6e46fdfef7",
+            "nombre": "Fiesta-Saurus Rex",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2394,8 +2394,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/fiestracentral.jpeg?alt=media&token=07ef6619-6c1d-44ab-8b0b-1bac4a5a1883",
+            "nombre": "Party Central",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2410,8 +2410,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/frozen.jpeg?alt=media&token=4c0272fb-d3c7-419a-bade-434046ff76c8",
+            "nombre": "Fozen: Una Aventura Congelada",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2426,8 +2426,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/fury.jpg?alt=media&token=76af5e84-4ff7-485b-bb35-5d1678a8aae0",
+            "nombre": "Fury",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2442,8 +2442,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/gladiador.jpg?alt=media&token=e08417da-5d64-4343-90f1-b48f319fde3a",
+            "nombre": "Gladiador",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2458,8 +2458,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/guardianesdelagalaxia.jpeg?alt=media&token=36f92353-5927-49b0-b786-960e783dd053",
+            "nombre": "Guardianes de la Galaxia",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2474,8 +2474,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/holaalberto.jpeg?alt=media&token=550ac5e7-ef88-457e-baed-7dca9e3340fe",
+            "nombre": "Hola Alberto",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2490,8 +2490,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/hombrehormiga.jpeg?alt=media&token=74f16983-8da1-45e2-9a8d-01a70c70c7e7",
+            "nombre": "Ant-Man: el Hombre Hormiga",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2506,8 +2506,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/hombresdenegro.jpg?alt=media&token=1426d661-431c-4294-a01a-02df8fc899cd",
+            "nombre": "Hombre de Negro",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2522,8 +2522,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/intensamente.jpeg?alt=media&token=dda12b56-b8df-42ff-ac33-075e88c490c0",
+            "nombre": "Intensamente",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2538,8 +2538,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/ironman.jpeg?alt=media&token=32bd119d-7571-4227-9654-1c80f6e282d3",
+            "nombre": "Iron Man: el Hombre de Hierro",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2554,8 +2554,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/iterestelar.jpg?alt=media&token=2cf298f5-ae0a-4b2e-ad29-96fcb5710582",
+            "nombre": "Interestelar",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2570,8 +2570,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/jasonbourn.jpg?alt=media&token=07d4a1e4-75aa-425c-b0e3-8c3c4e397824",
+            "nombre": "Jason Bourne: Identidad Desconocida",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2586,8 +2586,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/johnwick.webp?alt=media&token=0028887f-4fb7-4404-9621-8471c7dc9fbe",
+            "nombre": "John Wick: Otro día para matar",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2602,8 +2602,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/jurassikworld.jpg?alt=media&token=b12c6d6b-4a21-4865-97e2-34a7733c50b4",
+            "nombre": "Jurassic World: Mundo Jurásico",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2618,8 +2618,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/labelladurmiente.jpeg?alt=media&token=9c1b4c23-a05f-4a5b-8054-919a09933d98",
+            "nombre": "La Bella Durmiente",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2634,8 +2634,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/labellaylabestia.jpeg?alt=media&token=c5dc6506-2d6e-4ac6-b715-39a573b64d54",
+            "nombre": "La Bella y la Bestia",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2650,8 +2650,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/lacenicienta.jpeg?alt=media&token=53f30cb7-ab82-4b89-94a9-fc3e378b096a",
+            "nombre": "La Cenicienta",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2666,8 +2666,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/laeradelhielo.jpeg?alt=media&token=8bdfb3ef-dd64-4234-9845-ba8cf12061a4",
+            "nombre": "La Era del Hielo",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2682,8 +2682,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/laluna.jpeg?alt=media&token=fac001d5-772b-4cc1-89e3-0ea5954b2cd9",
+            "nombre": "La Luna",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2698,8 +2698,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/lamplife.jpeg?alt=media&token=8e973214-71ca-4174-9256-ced55bced368",
+            "nombre": "Lamp Life",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2714,8 +2714,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/laprincesayelsapo.jpeg?alt=media&token=e5e7a8db-e685-48ae-ba33-1ec355660d41",
+            "nombre": "La Princesa y el Sapo",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2730,8 +2730,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/lapurga.jpg?alt=media&token=fb749e0e-a67e-44eb-8927-527f5cc05ab3",
+            "nombre": "La Purga: La Noche de la Expiación",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2746,8 +2746,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/lasirenita.jpeg?alt=media&token=672e0ba8-7556-4ad4-acf8-21bf46b94190",
+            "nombre": "La Sirenita",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2762,8 +2762,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/lava.jpeg?alt=media&token=4ab5996a-aeac-4791-b511-16a606013ebb",
+            "nombre": "Lava",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2778,8 +2778,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/lavidadedug.jpeg?alt=media&token=4e3082cf-e5e2-4aad-b3ce-3d6e246c633b",
+            "nombre": "Up: La Vida de Dug",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2794,8 +2794,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/logan.jpeg?alt=media&token=87b88a9b-5e75-4d33-8836-2a46676d0d81",
+            "nombre": "Logan",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2810,8 +2810,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/losperdedores.jpeg?alt=media&token=a3c6e99f-5ca9-4a30-a1cc-b642c4550539",
+            "nombre": "Los Perdedores",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2826,8 +2826,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/losvengadores.jpeg?alt=media&token=890610e0-b33c-40d5-86b1-6c29fd2cd30c",
+            "nombre": "The Avengers: los Vengadores",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2842,8 +2842,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/madriguera.jpeg?alt=media&token=cafd7090-4b19-4709-9eb3-de87b3fa8267",
+            "nombre": "Madriguera",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2858,8 +2858,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/megalodon.jpg?alt=media&token=a0940e23-11d6-48ed-adf0-a58957518192",
+            "nombre": "Megalodón",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2874,8 +2874,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/misionimposible5.jpg?alt=media&token=a0772470-151b-4512-9b61-e761272fa8a5",
+            "nombre": "Misión imposible: nación secreta",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2890,8 +2890,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/moana.jpeg?alt=media&token=ff6d4bdc-ad11-4f08-a890-0f29f06a2170",
+            "nombre": "Moana",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2906,8 +2906,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/monsterinc.jpeg?alt=media&token=7596d524-c5f1-4e71-b70f-0895b2fcb95c",
+            "nombre": "Monster Inc",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2922,8 +2922,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/mordu.jpeg?alt=media&token=5542bd65-4fad-4580-9e9f-7cc6a0f6e304",
+            "nombre": "La leyenda de Mor'du",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2938,8 +2938,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/mulan.jpeg?alt=media&token=1ff0222e-5ddd-41b7-8439-3c8a62b19437",
+            "nombre": "Mulán",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2954,8 +2954,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/oceans8.jpg?alt=media&token=570f4c9a-6868-4074-91c4-9701fa142eeb",
+            "nombre": "Ocean's 8: las estafadoras",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2970,8 +2970,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/out.jpeg?alt=media&token=a2f0221d-764e-4941-abd2-7ba73484d484",
+            "nombre": "Out",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -2986,8 +2986,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/panteranegra.jpeg?alt=media&token=67dc8989-70cc-4b4c-b86c-ef17d4d817c9",
+            "nombre": "Pantera Negra",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -3002,8 +3002,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/queeselamor.jpeg?alt=media&token=2cec90cb-8467-4756-b131-65a842298d3b",
+            "nombre": "Forky hace una pregunta: ¿Qué es el amor?",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -3018,8 +3018,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/raya.jpeg?alt=media&token=3fc9052d-7284-4bc8-8ce7-b27bd54e25dc",
+            "nombre": "Raya y el Último Dragón",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -3034,8 +3034,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/rescateenlasalturas.jpg?alt=media&token=10e685d7-9c9a-4a4c-8526-9c6f400e1bc6",
+            "nombre": "Rascacielos: Rescate en las Alturas",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -3050,8 +3050,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/reyleon.jpeg?alt=media&token=3274c6b2-ef55-47c3-890f-c23c44ae1638",
+            "nombre": "El Rey León",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -3066,8 +3066,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/sanyay.jpeg?alt=media&token=b9e33017-fd79-4cd3-984b-4fbabb8dfe65",
+            "nombre": "Sanjay: El Súper Equipo",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -3082,8 +3082,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/tarzan.jpeg?alt=media&token=5e41c6aa-e143-46f9-b099-299b352eec8a",
+            "nombre": "Tarzán",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -3098,8 +3098,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/tarzan.jpeg?alt=media&token=5e41c6aa-e143-46f9-b099-299b352eec8a",
+            "nombre": "Thor",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -3114,8 +3114,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/tombraider.jpg?alt=media&token=183e6e7e-fab3-4dd0-89ae-acbeac6a665d",
+            "nombre": "Tomb Raider",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -3130,8 +3130,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/toystory.jpeg?alt=media&token=95b93d3c-c16a-4fd5-b964-0f53f0c1606c",
+            "nombre": "Toy Story",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -3146,8 +3146,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/valiente.jpeg?alt=media&token=555cec57-4372-4b52-89f7-70c88224b5bc",
+            "nombre": "Valiente",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -3162,8 +3162,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/viudanegra.jpeg?alt=media&token=e77f4e7d-6ff9-4ecc-bc1e-9dd117f5a596",
+            "nombre": "Black Widow",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -3178,8 +3178,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/xmen.jpeg?alt=media&token=d65824ab-5349-45ce-ad51-830f23a09bae",
+            "nombre": "X-men",
             "categoria": "",
             "año": "",
             "tiempo": "",
@@ -3194,152 +3194,8 @@
             "autor6": ""
         },
         {
-            "imagen": "",
-            "nombre": "",
-            "categoria": "",
-            "año": "",
-            "tiempo": "",
-            "clasificacion": "",
-            "descripcion": "",
-            "direccion": "",
-            "autor1": "",
-            "autor2": "",
-            "autor3": "",
-            "autor4": "",
-            "autor5": "",
-            "autor6": ""
-        },
-        {
-            "imagen": "",
-            "nombre": "",
-            "categoria": "",
-            "año": "",
-            "tiempo": "",
-            "clasificacion": "",
-            "descripcion": "",
-            "direccion": "",
-            "autor1": "",
-            "autor2": "",
-            "autor3": "",
-            "autor4": "",
-            "autor5": "",
-            "autor6": ""
-        },
-        {
-            "imagen": "",
-            "nombre": "",
-            "categoria": "",
-            "año": "",
-            "tiempo": "",
-            "clasificacion": "",
-            "descripcion": "",
-            "direccion": "",
-            "autor1": "",
-            "autor2": "",
-            "autor3": "",
-            "autor4": "",
-            "autor5": "",
-            "autor6": ""
-        },
-        {
-            "imagen": "",
-            "nombre": "",
-            "categoria": "",
-            "año": "",
-            "tiempo": "",
-            "clasificacion": "",
-            "descripcion": "",
-            "direccion": "",
-            "autor1": "",
-            "autor2": "",
-            "autor3": "",
-            "autor4": "",
-            "autor5": "",
-            "autor6": ""
-        },
-        {
-            "imagen": "",
-            "nombre": "",
-            "categoria": "",
-            "año": "",
-            "tiempo": "",
-            "clasificacion": "",
-            "descripcion": "",
-            "direccion": "",
-            "autor1": "",
-            "autor2": "",
-            "autor3": "",
-            "autor4": "",
-            "autor5": "",
-            "autor6": ""
-        },
-        {
-            "imagen": "",
-            "nombre": "",
-            "categoria": "",
-            "año": "",
-            "tiempo": "",
-            "clasificacion": "",
-            "descripcion": "",
-            "direccion": "",
-            "autor1": "",
-            "autor2": "",
-            "autor3": "",
-            "autor4": "",
-            "autor5": "",
-            "autor6": ""
-        },
-        {
-            "imagen": "",
-            "nombre": "",
-            "categoria": "",
-            "año": "",
-            "tiempo": "",
-            "clasificacion": "",
-            "descripcion": "",
-            "direccion": "",
-            "autor1": "",
-            "autor2": "",
-            "autor3": "",
-            "autor4": "",
-            "autor5": "",
-            "autor6": ""
-        },
-        {
-            "imagen": "",
-            "nombre": "",
-            "categoria": "",
-            "año": "",
-            "tiempo": "",
-            "clasificacion": "",
-            "descripcion": "",
-            "direccion": "",
-            "autor1": "",
-            "autor2": "",
-            "autor3": "",
-            "autor4": "",
-            "autor5": "",
-            "autor6": ""
-        },
-        {
-            "imagen": "",
-            "nombre": "",
-            "categoria": "",
-            "año": "",
-            "tiempo": "",
-            "clasificacion": "",
-            "descripcion": "",
-            "direccion": "",
-            "autor1": "",
-            "autor2": "",
-            "autor3": "",
-            "autor4": "",
-            "autor5": "",
-            "autor6": ""
-        },
-        {
-            "imagen": "",
-            "nombre": "",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/amazing-events-baa5c.appspot.com/o/zootopia.jpeg?alt=media&token=7be839d5-dd1d-4be3-847c-937714af9e50",
+            "nombre": "Zootopia",
             "categoria": "",
             "año": "",
             "tiempo": "",
